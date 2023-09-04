@@ -125,14 +125,13 @@ ul li a:hover {
   border: 1.5px solid var(--text-color);
   background: var(--surface-color-hover);
   backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 
 /*social*/
 #social {
   display: flex;
   justify-content: center;
-  align-items: center;
-  gap: 16px;
   padding: 24px 0;
   font-size: 30px;
 }
