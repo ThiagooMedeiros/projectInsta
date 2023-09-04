@@ -17,7 +17,9 @@ Minha versão do programa exclusivo e gratuito, promovido pela Rocketseat para e
 </p>
 
 <br>
-
+<p align="center">
+  <img alt="projeto DevLinks" src="./assets/assets/myProject.png" width="100%">
+</p>
 <p align="center">
   <img alt="projeto DevLinks" src=".github/pw1.jpg" width="100%">
 </p>
